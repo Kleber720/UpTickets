@@ -1,5 +1,7 @@
 # UpTickets
 
+> **Estudos e tutoriais:** este repositório reúne exercícios, prática de curso ou acompanhamento de tutoriais. Não faz parte dos quatro projetos principais do portfólio.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flet](https://img.shields.io/badge/Flet-6B5BDB?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-45556C?style=flat-square)
 
 Projeto de estudo e colaboração; este repositório é um fork de [victorprogramer121/UpTickets](https://github.com/victorprogramer121/UpTickets).
@@ -55,4 +57,4 @@ Certifique-se de ter o Python 3 instalado no ambiente.
 
 ---
 
-[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
+[Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
