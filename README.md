@@ -1,5 +1,9 @@
 # UpTickets
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flet](https://img.shields.io/badge/Flet-6B5BDB?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-45556C?style=flat-square)
+
+Projeto de estudo e colaboração; este repositório é um fork de [victorprogramer121/UpTickets](https://github.com/victorprogramer121/UpTickets).
+
 O UpTickets é um sistema de gestão voltado para a criação e administração de eventos e usuários.
 
 ## Funcionalidades
@@ -33,7 +37,7 @@ Certifique-se de ter o Python 3 instalado no ambiente.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/UpTickets.git
+   git clone https://github.com/Kleber720/UpTickets.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
@@ -47,3 +51,8 @@ Certifique-se de ter o Python 3 instalado no ambiente.
    ```bash
    python app.py
    ```
+
+
+---
+
+[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
